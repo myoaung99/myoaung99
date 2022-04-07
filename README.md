@@ -1,4 +1,7 @@
 ### Hi there 👋
+I'm ###Myo ###Myint ###Aung from Mandalay.
+
+I'm currently learning amazing front-end framework React.
 
 <!--
 **myoaung99/myoaung99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
