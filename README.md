@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **NextJs Projects**
 
-- 🌱 I’m currently learning **ReactJs, NextJs & NodeJs**
+- 🌱 And I’m also learning **ReactJs, NextJs & NodeJs**
 
-- 💬 Ask me about **React**
+- 💬 You can ask me about **React**
 
 - 📫 How to reach me **myomyintaung064@gmail.com**
 
