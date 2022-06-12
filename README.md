@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Myo Myint Aung</h1>
-<h3 align="center">A passionate frontend developer from Myanmar</h3>
+<h3 align="center">A passionate frontend web developer from Myanmar</h3>
 
 - 🔭 I’m currently working on **NextJs Projects**
 
